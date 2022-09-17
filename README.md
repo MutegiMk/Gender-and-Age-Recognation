@@ -1,8 +1,6 @@
 # Demo video
 
-
-https://user-images.githubusercontent.com/109520639/190866016-9a00a3e4-90ee-4ccd-b4ee-e415def62c9a.mp4
-
+https://user-images.githubusercontent.com/109520639/190866404-a13df418-b335-417d-b63f-5958da98c6aa.mp4
 
 # Gender-and-Age-Recognation
 This project uses pre-trained models to predict Gender and Age of a live image
